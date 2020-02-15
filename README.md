@@ -1,4 +1,4 @@
-# Tilde Enhanced
+# My own fork of the legendary "Tilde Enhanced"
 
 A slightly modified version of [Cade Scroggins](https://github.com/cadejscroggins)'s homepage [Tilde](https://github.com/cadejscroggins/tilde).
 
